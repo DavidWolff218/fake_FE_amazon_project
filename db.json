@@ -1,0 +1,27 @@
+{"teams":[
+{
+    "id":1,
+    "name": "Chicago Bears",
+    "sport": "Football"
+},
+{
+    "id":2,
+    "name": "Chicago Cubs",
+    "sport": "Baseball"
+},
+{
+    "id":3,
+    "name": "Chicago White Sox",
+    "sport": "Baseball"
+},
+{
+    "id":4,
+    "name": "Chicago Bulls",
+    "sport": "Basketball"
+},
+{
+    "id":5,
+    "name": "Chicago Blackhawks",
+    "sport": "Hockey"
+}
+]}
